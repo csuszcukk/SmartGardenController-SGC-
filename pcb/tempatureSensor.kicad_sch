@@ -2243,13 +2243,13 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 115.57) (xy 165.1 115.57)
+			(xy 168.91 140.97) (xy 171.45 140.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0a531454-09b3-4bce-975c-f2e7ede57875")
+		(uuid "08a635a4-ed1f-4187-a056-f9a8a3589b87")
 	)
 	(wire
 		(pts
@@ -2263,6 +2263,46 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 123.19) (xy 119.38 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c664315-5e71-4556-a232-0ac16ff7dc4d")
+	)
+	(wire
+		(pts
+			(xy 212.09 123.19) (xy 212.09 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f181226-32c5-4790-a5be-7809d3b8e3dd")
+	)
+	(wire
+		(pts
+			(xy 118.11 124.46) (xy 129.54 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f53bbc3-1b06-4202-8435-ea0a0e853b7b")
+	)
+	(wire
+		(pts
+			(xy 160.02 124.46) (xy 160.02 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11c0b40b-e545-4c5e-a326-6e9fd49835e3")
+	)
+	(wire
+		(pts
 			(xy 198.12 71.12) (xy 213.36 71.12)
 		)
 		(stroke
@@ -2273,13 +2313,53 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 124.46) (xy 118.11 115.57)
+			(xy 171.45 123.19) (xy 171.45 140.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "22ff1569-0fe8-48d2-9eed-9e1e0ae7313d")
+		(uuid "164d44de-d6a1-4e08-be02-9cb1956e6de2")
+	)
+	(wire
+		(pts
+			(xy 115.57 139.7) (xy 121.92 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a182e59-e30d-43ab-9882-67ec5b3af806")
+	)
+	(wire
+		(pts
+			(xy 152.4 68.58) (xy 213.36 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d1323ee-141c-4a9b-9147-e57b82bfa58c")
+	)
+	(wire
+		(pts
+			(xy 119.38 116.84) (xy 118.11 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "217282d6-fe8c-42f6-baa2-8661cda83798")
+	)
+	(wire
+		(pts
+			(xy 113.03 124.46) (xy 113.03 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23cbb1c5-07ce-4aa8-b0d6-5b8170f3eba3")
 	)
 	(wire
 		(pts
@@ -2290,6 +2370,16 @@
 			(type default)
 		)
 		(uuid "253fd623-66c0-4341-9676-e20fdf8556c5")
+	)
+	(wire
+		(pts
+			(xy 118.11 115.57) (xy 116.84 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26fc80c1-7aa7-4caa-af81-415c4c8e7cb5")
 	)
 	(wire
 		(pts
@@ -2313,13 +2403,33 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 124.46) (xy 166.37 115.57)
+			(xy 165.1 115.57) (xy 163.83 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3830b901-3003-49dd-bef6-2628a9311723")
+		(uuid "356a7c7c-8da9-43c4-b97e-12670fbf8f44")
+	)
+	(wire
+		(pts
+			(xy 171.45 123.19) (xy 166.37 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a12dbe7-bd25-45d1-8019-5b29cffef23b")
+	)
+	(wire
+		(pts
+			(xy 176.53 124.46) (xy 176.53 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3dcba3ef-e791-4a3a-bedd-e5c9c304cac9")
 	)
 	(wire
 		(pts
@@ -2340,6 +2450,16 @@
 			(type default)
 		)
 		(uuid "4aee967e-638e-4b61-a0fb-c8e9cbf67b1b")
+	)
+	(wire
+		(pts
+			(xy 121.92 139.7) (xy 121.92 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e8d0d02-71d0-4214-9174-62008a31b278")
 	)
 	(wire
 		(pts
@@ -2373,23 +2493,23 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 124.46) (xy 153.67 68.58)
+			(xy 118.11 116.84) (xy 118.11 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "52757134-957f-40db-8692-b5570d0d2e5b")
+		(uuid "59a0df66-b149-4d9c-9f4e-c4e430695acc")
 	)
 	(wire
 		(pts
-			(xy 170.18 139.7) (xy 170.18 115.57)
+			(xy 124.46 123.19) (xy 124.46 140.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5845d8b5-99ab-43ce-bc9a-bb7ad06cddc8")
+		(uuid "5b9d0b84-4bb8-4a81-9ea9-79824af8676d")
 	)
 	(wire
 		(pts
@@ -2400,6 +2520,16 @@
 			(type default)
 		)
 		(uuid "61a592c6-5457-422d-952e-a248b65246d6")
+	)
+	(wire
+		(pts
+			(xy 160.02 115.57) (xy 161.29 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63ddba00-abfc-4a7a-9f68-5acf15fff7d9")
 	)
 	(wire
 		(pts
@@ -2423,13 +2553,13 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 115.57) (xy 162.56 115.57)
+			(xy 217.17 123.19) (xy 217.17 140.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "74e28265-66c9-478b-9c5e-35a9943627d2")
+		(uuid "709eb457-4733-46ac-8f10-51b4021c4636")
 	)
 	(wire
 		(pts
@@ -2440,6 +2570,16 @@
 			(type default)
 		)
 		(uuid "75f0214a-5141-4b23-8f8b-3bdd41da75fc")
+	)
+	(wire
+		(pts
+			(xy 105.41 66.04) (xy 105.41 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "780c4509-5043-434e-8c1f-7854303cfd7e")
 	)
 	(wire
 		(pts
@@ -2463,6 +2603,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 116.84) (xy 210.82 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80a05335-f082-4417-b5f0-96c823321e5e")
+	)
+	(wire
+		(pts
 			(xy 68.58 29.21) (xy 73.66 29.21)
 		)
 		(stroke
@@ -2473,13 +2623,13 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 115.57) (xy 167.64 115.57)
+			(xy 214.63 139.7) (xy 214.63 140.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "85e54b68-a11f-4b06-a83d-29d9ed1ce873")
+		(uuid "8634443b-70e0-47bd-8741-664f2bb58188")
 	)
 	(wire
 		(pts
@@ -2493,6 +2643,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 140.97) (xy 124.46 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a68519f-9c1f-4866-8776-a84f4d79e189")
+	)
+	(wire
+		(pts
 			(xy 105.41 66.04) (xy 213.36 66.04)
 		)
 		(stroke
@@ -2503,13 +2663,23 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 139.7) (xy 170.18 139.7)
+			(xy 168.91 139.7) (xy 168.91 140.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8e0bbaf3-b9f5-4be6-bc40-a489fe70477e")
+		(uuid "8cd73106-b2ab-4817-94f8-d6ff2649d7b6")
+	)
+	(wire
+		(pts
+			(xy 165.1 116.84) (xy 165.1 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92f269bc-8768-41e0-8593-061c8310ef42")
 	)
 	(wire
 		(pts
@@ -2533,6 +2703,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 124.46) (xy 129.54 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b98854f-f728-44eb-92a6-702b603b174e")
+	)
+	(wire
+		(pts
 			(xy 210.82 115.57) (xy 209.55 115.57)
 		)
 		(stroke
@@ -2543,43 +2723,43 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 115.57) (xy 116.84 115.57)
+			(xy 214.63 140.97) (xy 217.17 140.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9e018816-4027-461c-9109-87a2515a4164")
+		(uuid "9c2f121b-928e-4fbd-a462-1fd58f200e09")
 	)
 	(wire
 		(pts
-			(xy 153.67 68.58) (xy 213.36 68.58)
+			(xy 166.37 115.57) (xy 176.53 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a24fcbed-3c21-465f-9ca9-15d570d6d315")
+		(uuid "9d986d58-e0b3-479f-a4ae-a6dd7636bea2")
 	)
 	(wire
 		(pts
-			(xy 214.63 115.57) (xy 212.09 115.57)
+			(xy 210.82 124.46) (xy 222.25 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2a1bdc8-1610-482a-a5c0-d755f2efaf39")
+	)
+	(wire
+		(pts
+			(xy 212.09 115.57) (xy 222.25 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a3fb1f35-163e-4c1b-9bba-934608f0c65e")
-	)
-	(wire
-		(pts
-			(xy 210.82 124.46) (xy 210.82 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a549727d-86fb-425b-a612-082b95b84e8f")
 	)
 	(wire
 		(pts
@@ -2593,26 +2773,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 115.57) (xy 114.3 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a58381b7-09c0-44ba-b80e-94fd6622bd20")
-	)
-	(wire
-		(pts
-			(xy 121.92 115.57) (xy 119.38 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b1fbca18-7ab8-40fa-9ea2-628f85c7df91")
-	)
-	(wire
-		(pts
 			(xy 198.12 124.46) (xy 198.12 71.12)
 		)
 		(stroke
@@ -2623,13 +2783,13 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 124.46) (xy 161.29 115.57)
+			(xy 162.56 139.7) (xy 168.91 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c3aaf16e-373a-4482-b211-c2248a290c15")
+		(uuid "c27442ad-521e-401f-a075-a4551cdfa7c2")
 	)
 	(wire
 		(pts
@@ -2653,6 +2813,26 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 115.57) (xy 114.3 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca66d126-8812-4c3b-975f-5830c1cef250")
+	)
+	(wire
+		(pts
+			(xy 217.17 123.19) (xy 212.09 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca937165-8f47-43dc-87ee-ac37e64f2b46")
+	)
+	(wire
+		(pts
 			(xy 88.9 29.21) (xy 92.71 29.21)
 		)
 		(stroke
@@ -2673,33 +2853,13 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 66.04) (xy 105.41 124.46)
+			(xy 222.25 124.46) (xy 222.25 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d07b5534-3ae7-44c4-b4f3-7256e4b4e643")
-	)
-	(wire
-		(pts
-			(xy 115.57 139.7) (xy 121.92 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2d9b39e-e5b6-4bc4-9481-11abeec28d39")
-	)
-	(wire
-		(pts
-			(xy 214.63 139.7) (xy 214.63 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dae24441-c3b6-4724-b80e-65baa9ff9e08")
+		(uuid "d2e875db-0636-4895-b9b3-cc41f0a6b38c")
 	)
 	(wire
 		(pts
@@ -2713,6 +2873,46 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 116.84) (xy 165.1 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfe87b6a-84c2-4853-b64e-0d420fd4ec06")
+	)
+	(wire
+		(pts
+			(xy 165.1 124.46) (xy 176.53 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0734b32-8d85-40a9-96d1-468b8d49f24c")
+	)
+	(wire
+		(pts
+			(xy 124.46 123.19) (xy 119.38 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0ea067e-75f8-45e9-ba76-077f936573e3")
+	)
+	(wire
+		(pts
+			(xy 152.4 68.58) (xy 152.4 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e41a2091-1144-4a87-a3dd-9b1fc0a9e59d")
+	)
+	(wire
+		(pts
 			(xy 205.74 115.57) (xy 207.01 115.57)
 		)
 		(stroke
@@ -2723,13 +2923,13 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 139.7) (xy 121.92 115.57)
+			(xy 119.38 115.57) (xy 129.54 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e625f589-1068-448c-99f5-6c0e32979323")
+		(uuid "e6ddc6a7-7443-4366-83e1-c3c3388c55f7")
 	)
 	(wire
 		(pts
@@ -2743,23 +2943,23 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 124.46) (xy 113.03 115.57)
+			(xy 166.37 123.19) (xy 166.37 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f323f895-4197-4110-a8fc-55e876913735")
+		(uuid "f8cc13a0-8c4d-4612-81a2-868f5ae376b4")
 	)
-	(label "GND"
-		(at 105.41 139.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
+	(wire
+		(pts
+			(xy 210.82 116.84) (xy 210.82 115.57)
 		)
-		(uuid "0feb5572-9796-4179-be3a-7f1ca110f4b7")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb9cc9a0-45c4-41d4-99b1-5922785ed39c")
 	)
 	(label "GND"
 		(at 176.53 49.53 0)
@@ -2770,6 +2970,16 @@
 			(justify left bottom)
 		)
 		(uuid "23b7d42c-4e90-444a-9a4f-dd6ca9bb1b69")
+	)
+	(label "GND"
+		(at 152.4 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "242b5495-9519-4b62-bcf5-296183b6cb7e")
 	)
 	(label "V3.3"
 		(at 113.03 29.21 0)
@@ -2800,16 +3010,6 @@
 			(justify left bottom)
 		)
 		(uuid "540556ee-a6f4-41b7-9f56-b07b403e1a59")
-	)
-	(label "GND"
-		(at 153.67 139.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6dad5f45-0170-41bc-96b3-e326d9945f9f")
 	)
 	(label "V3.3"
 		(at 256.54 53.34 180)
@@ -2851,6 +3051,16 @@
 		)
 		(uuid "9578dd63-0ff1-4053-a253-2decd1281ffd")
 	)
+	(label "V3.3"
+		(at 256.54 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ac66e38d-16a4-4f0c-bb65-a14fddd0bfd6")
+	)
 	(label "GND"
 		(at 256.54 50.8 180)
 		(effects
@@ -2861,6 +3071,16 @@
 		)
 		(uuid "b73344a7-ec81-410c-8dfc-1c4d78d29ae7")
 	)
+	(label "GND"
+		(at 105.41 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c76ad377-dab7-4794-a7c6-a109ca308e12")
+	)
 	(label "V3.3"
 		(at 228.6 40.64 0)
 		(effects
@@ -2870,6 +3090,16 @@
 			(justify left bottom)
 		)
 		(uuid "cf3e10d2-6caf-4efe-9e20-0a79f8a7d1e2")
+	)
+	(label "GND"
+		(at 256.54 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d8ecf353-5a90-4f93-80f8-39ffc28ee4e0")
 	)
 	(label "GND"
 		(at 113.03 36.83 0)
@@ -3043,6 +3273,98 @@
 			(project "tempatureSensor"
 				(path "/12941555-0681-4dc1-8828-4d3a2b6d5289"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Relay:Relay_SPDT")
+		(at 110.49 132.08 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "137e78ed-ac94-4360-96fa-19f0d5a907d7")
+		(property "Reference" "K7"
+			(at 121.92 130.8099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Relay_SPDT"
+			(at 121.92 133.3499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Relay_THT:Relay_SPDT_Finder_36.11"
+			(at 121.92 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 110.49 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Relay SPDT, monostable, EN50005"
+			(at 110.49 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "A2"
+			(uuid "b3087edd-715c-4274-b36b-77c2649b534a")
+		)
+		(pin "A1"
+			(uuid "7123a187-d4cd-4353-a560-131ffc7e8918")
+		)
+		(pin "14"
+			(uuid "6384e1d4-9367-418b-873b-014f174f7162")
+		)
+		(pin "11"
+			(uuid "b9e6a8c5-0d94-4685-a298-3927dbba941a")
+		)
+		(pin "12"
+			(uuid "33f0a051-63ce-4a0f-8958-d395e09d136a")
+		)
+		(instances
+			(project "tempatureSensor"
+				(path "/12941555-0681-4dc1-8828-4d3a2b6d5289"
+					(reference "K7")
 					(unit 1)
 				)
 			)
@@ -3439,6 +3761,91 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x03")
+		(at 163.83 110.49 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "52b46f53-ee69-4bbb-a6fd-7fb77d46071c")
+		(property "Reference" "J8"
+			(at 168.91 109.2199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x03"
+			(at 168.91 111.7599 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-03P_1x03_P5.00mm"
+			(at 163.83 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 163.83 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 163.83 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "e02253fa-5194-4a65-b8b0-239125b25696")
+		)
+		(pin "2"
+			(uuid "92658adb-3891-4bc3-9502-e143b10373ad")
+		)
+		(pin "1"
+			(uuid "43e4046f-0b12-474f-aacf-285857411d17")
+		)
+		(instances
+			(project "tempatureSensor"
+				(path "/12941555-0681-4dc1-8828-4d3a2b6d5289"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 68.58 33.02 0)
 		(unit 1)
@@ -3605,275 +4012,6 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 165.1 110.49 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "80622917-f51e-44c1-8fe5-985ed803da1a")
-		(property "Reference" "J5"
-			(at 170.18 109.2199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x03"
-			(at 170.18 111.7599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-03P_1x03_P5.00mm"
-			(at 165.1 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 165.1 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 165.1 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "f3dc2a64-e60a-4f18-a3e1-0ad035f23ff8")
-		)
-		(pin "2"
-			(uuid "31efe35d-618b-43df-9e8a-0b18cb4fcb3a")
-		)
-		(pin "1"
-			(uuid "61f55b93-ab11-4d1b-919a-00f894dd43d7")
-		)
-		(instances
-			(project "tempatureSensor"
-				(path "/12941555-0681-4dc1-8828-4d3a2b6d5289"
-					(reference "J5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Relay:Relay_SPDT")
-		(at 110.49 132.08 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "85d3cb9e-569e-4cc1-831f-233c4495f7c4")
-		(property "Reference" "K3"
-			(at 121.92 130.8099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Relay_SPDT"
-			(at 121.92 133.3499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Relay_THT:Relay_SPDT_Finder_36.11"
-			(at 121.92 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" ""
-			(at 110.49 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Relay SPDT, monostable, EN50005"
-			(at 110.49 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "A2"
-			(uuid "015590d2-0a21-4144-a18f-6dbdc05dd619")
-		)
-		(pin "A1"
-			(uuid "c2afbaa0-31c4-4d3b-a64d-35ec2b82f0e1")
-		)
-		(pin "14"
-			(uuid "5196df10-53e8-401a-8200-39676793281a")
-		)
-		(pin "11"
-			(uuid "15983af5-aa24-4a67-9335-9ddfad769dd9")
-		)
-		(pin "12"
-			(uuid "96be4e84-a77d-4d63-8ff3-0585133c7588")
-		)
-		(instances
-			(project "tempatureSensor"
-				(path "/12941555-0681-4dc1-8828-4d3a2b6d5289"
-					(reference "K3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Relay:Relay_SPDT")
-		(at 158.75 132.08 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9d87a7b0-5e59-461e-825f-9fc4d1630dbb")
-		(property "Reference" "K4"
-			(at 170.18 130.8099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Relay_SPDT"
-			(at 170.18 133.3499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Relay_THT:Relay_SPDT_Finder_36.11"
-			(at 170.18 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" ""
-			(at 158.75 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Relay SPDT, monostable, EN50005"
-			(at 158.75 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "A2"
-			(uuid "e51beca1-1030-4d9f-9b5d-58473922087c")
-		)
-		(pin "A1"
-			(uuid "ff538c06-cea5-41a4-8926-23ac68780e8e")
-		)
-		(pin "14"
-			(uuid "f9188914-ce98-4f03-b2a8-af3497075507")
-		)
-		(pin "11"
-			(uuid "bded309a-b692-4aff-845f-383fd0eae032")
-		)
-		(pin "12"
-			(uuid "e888dcc4-bc07-4cd7-a844-6a15cc73c31b")
-		)
-		(instances
-			(project "tempatureSensor"
-				(path "/12941555-0681-4dc1-8828-4d3a2b6d5289"
-					(reference "K4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x03")
 		(at 116.84 110.49 90)
 		(unit 1)
 		(body_style 1)
@@ -3883,8 +4021,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a3b9c4b4-57ed-405e-9ddf-50583d814ebc")
-		(property "Reference" "J4"
+		(uuid "c2f7cb16-b267-4c23-9b7e-914700b469d9")
+		(property "Reference" "J9"
 			(at 121.92 109.2199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3940,18 +4078,18 @@
 			)
 		)
 		(pin "3"
-			(uuid "7d80a030-9299-4ab3-9f80-6e9e6d51908c")
+			(uuid "99642954-6d6c-4886-b831-02157982f1ca")
 		)
 		(pin "2"
-			(uuid "87874403-d194-4082-a11d-600ecd62b8fb")
+			(uuid "259bb507-99d4-44f3-a270-bcecdfc0d54b")
 		)
 		(pin "1"
-			(uuid "f6c6094c-0d88-4618-a8b6-e7828f70fd6d")
+			(uuid "ad4fadd9-ad07-4f8c-8aba-05c222cb72f2")
 		)
 		(instances
 			(project "tempatureSensor"
 				(path "/12941555-0681-4dc1-8828-4d3a2b6d5289"
-					(reference "J4")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -4205,6 +4343,98 @@
 			(project "tempatureSensor"
 				(path "/12941555-0681-4dc1-8828-4d3a2b6d5289"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Relay:Relay_SPDT")
+		(at 157.48 132.08 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e05c056b-8443-489e-aacf-f091bdeaba41")
+		(property "Reference" "K6"
+			(at 168.91 130.8099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Relay_SPDT"
+			(at 168.91 133.3499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Relay_THT:Relay_SPDT_Finder_36.11"
+			(at 168.91 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Relay SPDT, monostable, EN50005"
+			(at 157.48 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "A2"
+			(uuid "4efe092a-e6a2-442e-8bad-f85ac7c89c5e")
+		)
+		(pin "A1"
+			(uuid "67f35973-3101-4869-adac-c489c27ba3f5")
+		)
+		(pin "14"
+			(uuid "2bbd9180-2cf3-45ec-8aec-1c38c5bb99fe")
+		)
+		(pin "11"
+			(uuid "b97d9ca5-2503-4293-812c-5083a3745c82")
+		)
+		(pin "12"
+			(uuid "a48973cf-58e5-4544-8370-972c9eb617fa")
+		)
+		(instances
+			(project "tempatureSensor"
+				(path "/12941555-0681-4dc1-8828-4d3a2b6d5289"
+					(reference "K6")
 					(unit 1)
 				)
 			)
