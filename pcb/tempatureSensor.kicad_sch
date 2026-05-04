@@ -2783,6 +2783,16 @@
 	)
 	(wire
 		(pts
+			(xy 243.84 45.72) (xy 256.54 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4383781-06cc-42bf-a67b-d3b54f6c8461")
+	)
+	(wire
+		(pts
 			(xy 162.56 139.7) (xy 168.91 139.7)
 		)
 		(stroke
@@ -3031,6 +3041,16 @@
 		)
 		(uuid "831db927-5504-4b25-8f3d-7a5d1373ee62")
 	)
+	(label "szivatyú"
+		(at 107.95 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "86a89f39-8887-4b63-8f5d-82ff11d1b284")
+	)
 	(label "GND"
 		(at 228.6 86.36 0)
 		(effects
@@ -3050,6 +3070,16 @@
 			(justify left bottom)
 		)
 		(uuid "9578dd63-0ff1-4053-a253-2decd1281ffd")
+	)
+	(label "talajfűtés"
+		(at 199.39 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "99f42e98-f28c-44b5-9458-ea6c51b11b72")
 	)
 	(label "V3.3"
 		(at 256.54 99.06 0)
@@ -3100,6 +3130,16 @@
 			(justify left bottom)
 		)
 		(uuid "d8ecf353-5a90-4f93-80f8-39ffc28ee4e0")
+	)
+	(label "párásító"
+		(at 154.94 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e1ed1370-9582-459b-8359-1cfb18335c74")
 	)
 	(label "GND"
 		(at 113.03 36.83 0)
